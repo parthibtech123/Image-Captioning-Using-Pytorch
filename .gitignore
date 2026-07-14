@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dataset - too large for git
+flicker8k/
+
+# training artifacts
+my_checkpoint.pth.tar
+runs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# windows metadata junk from WSL downloads
+*Zone.Identifier
